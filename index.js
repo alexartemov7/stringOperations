@@ -15,3 +15,4 @@ console.log(str.indexOf(searchTerm)) // 6
 
 let words = str.split(' ')
 console.log(words)
+console.log(str.)
